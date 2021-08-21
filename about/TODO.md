@@ -1,1 +1,2 @@
-- [x] Revisar
+- [ ] Revisar todos os módulos
+- [ ] Ver se as alterações estão devidamente publicadas na branch 
