@@ -8,6 +8,16 @@ def TEST_():
 
     PI      = consts.Consts.PI;
     E       = consts.Consts.E;
-    GRAVITY = consts.Consts.EARTH_GRAVITY;
+    GOLDEN  = consts.Consts.GOLDEN;
 
-    return PI, E, GRAVITY;
+    DEGREE  = consts.Consts.DEGREE
+
+    MIN     = consts.Consts.MINUTE;
+    HOUR    = consts.Consts.HOUR;
+    DAY     = consts.Consts.DAY;
+    YR      = consts.Consts.YEAR;
+    
+    return PI, E, GOLDEN, DEGREE, MIN, HOUR, DAY, YR;
+
+
+print(TEST_())
