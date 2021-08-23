@@ -28,5 +28,5 @@
     * Energy
     * Velocity
 
-## Here are an test called "tests.py". You can found this test in the mathemathics folder
+## Test called "tests.py". You can found this test in the mathemathics folder
 ![julieutils_test](https://user-images.githubusercontent.com/88407713/130477346-d3360087-d515-4b6a-bc6a-b7ebd5458d0d.png)
