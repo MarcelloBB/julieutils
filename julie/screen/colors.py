@@ -4,7 +4,7 @@ class Colors:
     """
     [CLASS] COLORS:
     This class contains constants. Each constant is a color.
-    They provides colors for background and foreground
+    They provide colors for background and foreground
     Colors with ´_´ can be interpreted as BACKGROUND. (e.g. _YELLOW means that the background color is yellow)
     The special constant ´RESET´ provides a standart output color (For foreground and background as well).
     Tip: You can use then with a ´f-string´ stuff
