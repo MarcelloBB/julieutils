@@ -18,6 +18,3 @@ def TEST_():
     YR      = consts.Consts.YEAR;
     
     return PI, E, GOLDEN, DEGREE, MIN, HOUR, DAY, YR;
-
-
-print(TEST_())
