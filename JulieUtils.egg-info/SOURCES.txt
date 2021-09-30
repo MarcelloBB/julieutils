@@ -1,0 +1,6 @@
+README.md
+setup.py
+JulieUtils.egg-info/PKG-INFO
+JulieUtils.egg-info/SOURCES.txt
+JulieUtils.egg-info/dependency_links.txt
+JulieUtils.egg-info/top_level.txt
