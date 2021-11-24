@@ -1,6 +1,6 @@
 import keyboard
 
-def SET_SCREEN():
+def SET_SCREEN() -> None:
     """
     [FUNC] SET_SCREEN:
     This function provides you to set the screen mode.

@@ -1,10 +1,10 @@
 import math
 
 class Equation:
-    def __init__(self, a, b, c):
+    def __init__(self, a : float, b : float, c : float) -> None:
         self.a, self.b, self.c, self.delta = a, b, c, (b**2 - 4 * a * c);
 
-    def solve(self):
+    def solve(self) -> float:
         # Case 1: [Delta > 0]
         if self.delta > 0:
             x1 = ((-self.b + math.sqrt(self.delta)) / (2 * self.a));

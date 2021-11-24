@@ -1,4 +1,4 @@
-def kinetic_energy(m, v):
+def kinetic_energy(m : float, v : float) -> float:
     """
     [FUNC] kinetic_energy:
     Returns the kinetic energy in Joules

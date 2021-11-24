@@ -1,4 +1,4 @@
-def HEADER(c="=", size=50, _print=True):
+def HEADER(c="=", size=50, _print=True) -> None:
     """
     [FUNC] HEADER:
     This function provides support for characters headers. Giving no arguments,
